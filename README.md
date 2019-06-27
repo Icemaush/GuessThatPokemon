@@ -9,4 +9,5 @@ INSTALLATION
 1. Download all .rar files.
 2. Extract files to directory.
 3. Right-click PokemonGame.part1.rar and click "Extract Here".
-4. Click PokemonGame.exe to play!
+4. Click PokemonGame.exe inside the PokemonGame directory to play!
+5. Have fun! :D
